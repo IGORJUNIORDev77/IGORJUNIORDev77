@@ -42,5 +42,6 @@
 </div>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=/IGORJUNIORDev77&&theme=tokyonight" alt="/IGORJUNIORDev77" /></p>
 
-![Snake animation](https://github.com/IGORJUNIORDev77/IGORJUNIORDev77/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com//IGORJUNIORDev77//IGORJUNIORDev77/blob/output/github-contribution-grid-snake-dark.svg)
